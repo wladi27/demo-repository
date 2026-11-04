@@ -1,0 +1,21 @@
+/* #li-class-1{
+    color: blue;
+}
+
+#li-class-2{
+    color: red;
+}
+
+#li-class-3{
+    color:violet;
+}
+ */
+ .elemento-1{
+    color: rgb(255, 0, 0);
+ }
+ .elemento-2{
+    color: aquamarine;
+ }
+ .elemento-3{
+    color: aqua;
+ }
