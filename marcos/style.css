@@ -1,0 +1,19 @@
+/* #li-class-1 {
+    color: blue;
+}
+#li-class-2 {
+    color: rgb(255, 115, 0);
+}
+#li-class-3 {
+    color: rgb(0, 255, 140);
+} */
+
+.elemento-1 {
+    color: rgb(255, 0, 212);
+}
+.elemento-2 {
+    color: rgb(255, 170, 0);
+}
+.elemento-3 {
+    color: rgb(0, 191, 255);
+}
