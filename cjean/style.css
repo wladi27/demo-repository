@@ -1,14 +1,15 @@
-/*#li-class-1{
-    color: blue;
+#li-class-1{
+    color: rgb(15, 15, 241);
 }
 
 #li-class-2{
     color: rgb(255, 68, 0);
 }
 #li-class-3{
-    color: rgb(255, 0, 140);
+    color: rgb(244, 26, 146);
 }
-*/
+
+/*
 .elemento-1 {
     color: rgb(255, 187, 127);
 }
@@ -20,3 +21,4 @@
 .elemento-3 {
     color: rgb(255, 127, 200);
 }
+    */
