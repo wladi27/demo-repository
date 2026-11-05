@@ -1,4 +1,3 @@
 Inicio del programa
-¡Hola Mundo, Team backend!
-Nueva línea Juan Durán
+¡Hola Mundo, Team!
 Fin del Programa
