@@ -1,3 +1,4 @@
-Inicio del programa
+Inicio del documento
 ¡Hola Mundo, Team!
+Prática del día 2
 Fin del Programa
