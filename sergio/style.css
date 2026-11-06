@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: lightcoral;
+    font-family: sans-serif;
+}
+
+.seccion {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.section-one
+{
+    background-color: lightgoldenrodyellow;
+}
+
+.section-one > h1 
+{
+    color: darkgoldenrod;
+}
+
+.section-two
+{
+    background-color: lightblue;
+}
+
+.section-two > h2
+{
+    color: darkblue;
+}
+
+.section-three
+{
+    background-color: lightcoral;
+    
+}
+
+.section-three > h2 
+{
+    color: darkred;
+}
