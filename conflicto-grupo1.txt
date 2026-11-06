@@ -3,6 +3,7 @@
 Inicio del documento - Estoy saludando
 ¡Hola Mundo!
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Inicio del programa
 ¡Hola Mundo-Gregoria!
@@ -30,3 +31,7 @@ Fin del sistema.
 Saludos Team Develop.....
 Fin del Progrma
 >>>>>>> origin/feature/marcos-conflicto
+=======
+Saludos equipo del curso
+Fin del Progrma
+>>>>>>> origin/feature/cjean-conflicto
