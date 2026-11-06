@@ -8,6 +8,7 @@ Inicio del System
 ¡Hola Mundo!
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Inicio del programa
 ¡Hola Mundo-Gregoria!
@@ -53,3 +54,8 @@ Fin del Progrmagit
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 >>>>>>> origin/feature/wladi-conflicto
+=======
+Saludos Team
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/marcos-conflicto
