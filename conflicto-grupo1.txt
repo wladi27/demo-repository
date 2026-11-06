@@ -2,4 +2,8 @@ Inicio del programa
 ¡Hola Mundo!
 Saludos Team
 Fin del Progrma
+<<<<<<< HEAD
 ultimo cambio de prueba de conflictos
+=======
+ultimo cambio de prueba de conflictos
+>>>>>>> de33630 (feat: modifica estado desde programador mileidy)
