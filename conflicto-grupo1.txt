@@ -63,6 +63,7 @@ ultimo cambio de prueba de conflictos
 Saludos Team
 Fin del Progrma
 ultimo cambio de prueba de conflictos
+<<<<<<< HEAD
 >>>>>>> origin/feature/marcos-conflicto
 =======
 Saludos Team
@@ -84,4 +85,6 @@ ultimo cambio de prueba de conflictos
 =======
 Fin del Progrma
 ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/any-conflicto
+=======
 >>>>>>> origin/feature/any-conflicto
