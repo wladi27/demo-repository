@@ -1,4 +1,4 @@
 Inicio del programa
-¡Hola Mundo!
+¡Hello World!
 Saludos Team
 Fin del Progrma
