@@ -9,6 +9,7 @@ Inicio del System
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Inicio del programa
 ¡Hola Mundo-Gregoria!
@@ -59,3 +60,8 @@ Saludos Team
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 >>>>>>> origin/feature/marcos-conflicto
+=======
+Saludos Team
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/cjean-conflicto
