@@ -2,4 +2,8 @@ Inicio del programa
 ¡Hola Mundo!
 Saludos Team
 Fin del Progrma
+<<<<<<< HEAD
 ultimo cambio de prueba de conflictos
+=======
+ultimo cambio de prueba de conflictos
+>>>>>>> de33630259c39721dff4d3dfa50996e98bf822e7
