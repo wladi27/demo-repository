@@ -13,6 +13,7 @@ Inicio del programa
 Saludos Team
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 =======
@@ -21,3 +22,6 @@ Fin del Progrmagit
 =======
 Fin del Progrma del documento actual
 >>>>>>> origin/feature/any-conflicto
+=======
+Fin del sistema.
+>>>>>>> origin/feature/jhimm-conflicto
