@@ -1,4 +1,4 @@
-Inicio del Sistema
+Inicio del System
 ¡Hola Mundo!
 Saludos Team
 Fin del Progrma
