@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Inicio del documento - Estoy saludando
+=======
+Inicio del System
+>>>>>>> origin/feature/sergio-v3
 ¡Hola Mundo!
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13,6 +17,7 @@ Inicio del programa
 ¡Hello World!
 >>>>>>> origin/feature/hectorg-conflicto
 Saludos Team
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35,3 +40,7 @@ Fin del Progrma
 Saludos equipo del curso
 Fin del Progrma
 >>>>>>> origin/feature/cjean-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/sergio-v3
