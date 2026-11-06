@@ -1,4 +1,4 @@
-Inicio del programa
+Inicio del documento
 ¡Hola Mundo!
 Saludos Team
 Fin del Progrma
