@@ -21,6 +21,7 @@ Saludos Team
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 =======
@@ -44,3 +45,6 @@ Fin del Progrma
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 >>>>>>> origin/feature/sergio-v3
+=======
+Fin del Progrmagit 
+>>>>>>> origin/feature/yhoxis-conflicto
