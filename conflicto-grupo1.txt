@@ -1,0 +1,100 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Inicio del documento - Estoy saludando
+=======
+Inicio del System
+>>>>>>> origin/feature/sergio-v3
+¡Hola Mundo!
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Inicio del programa
+¡Hola Mundo-Gregoria!
+>>>>>>> origin/feature/gregoria-conflicto
+=======
+Inicio del programa
+¡Hello World!
+>>>>>>> origin/feature/hectorg-conflicto
+Saludos Team
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+=======
+Fin del Progrmagit 
+>>>>>>> origin/feature/yhoxis-conflicto
+=======
+Fin del Progrma del documento actual
+>>>>>>> origin/feature/any-conflicto
+=======
+Fin del sistema.
+>>>>>>> origin/feature/jhimm-conflicto
+=======
+Saludos Team Develop.....
+Fin del Progrma
+>>>>>>> origin/feature/marcos-conflicto
+=======
+Saludos equipo del curso
+Fin del Progrma
+>>>>>>> origin/feature/cjean-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/sergio-v3
+=======
+Fin del Progrmagit 
+>>>>>>> origin/feature/yhoxis-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/wladi-conflicto
+=======
+Saludos Team
+Fin del Progrma
+<<<<<<< HEAD
+ultimo cambio de prueba de conflictos
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/feature/marcos-conflicto
+=======
+Saludos Team
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/cjean-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/gregoria-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/hectorg-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/jhimm-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/any-conflicto
+=======
+>>>>>>> origin/feature/any-conflicto
+=======
+>>>>>>> origin/feature/jhimm-conflicto
+=======
+=======
+ultimo cambio de prueba de conflictos
+>>>>>>> de33630 (feat: modifica estado desde programador mileidy)
+>>>>>>> origin/feature/marcos-conflicto
