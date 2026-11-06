@@ -25,6 +25,7 @@ Saludos Team
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 =======
@@ -65,3 +66,7 @@ Saludos Team
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 >>>>>>> origin/feature/cjean-conflicto
+=======
+Fin del Progrma
+ultimo cambio de prueba de conflictos
+>>>>>>> origin/feature/gregoria-conflicto
