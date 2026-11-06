@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Inicio del documento - Estoy saludando
 ¡Hola Mundo!
+=======
+Inicio del programa
+¡Hola Mundo-Gregoria!
+>>>>>>> origin/feature/gregoria-conflicto
 Saludos Team
 <<<<<<< HEAD
 <<<<<<< HEAD
