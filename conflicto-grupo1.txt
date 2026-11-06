@@ -2,8 +2,12 @@ Inicio del documento - Estoy saludando
 ¡Hola Mundo!
 Saludos Team
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fin del Progrma
 ultimo cambio de prueba de conflictos
 =======
 Fin del Progrmagit 
 >>>>>>> origin/feature/yhoxis-conflicto
+=======
+Fin del Progrma del documento actual
+>>>>>>> origin/feature/any-conflicto
