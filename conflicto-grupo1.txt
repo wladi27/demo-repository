@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 Inicio del documento - Estoy saludando
 ¡Hola Mundo!
+<<<<<<< HEAD
 =======
 Inicio del programa
 ¡Hola Mundo-Gregoria!
@@ -25,3 +26,7 @@ Fin del Progrma del documento actual
 =======
 Fin del sistema.
 >>>>>>> origin/feature/jhimm-conflicto
+=======
+Saludos Team Develop.....
+Fin del Progrma
+>>>>>>> origin/feature/marcos-conflicto
