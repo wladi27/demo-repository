@@ -62,7 +62,9 @@ ultimo cambio de prueba de conflictos
 =======
 Saludos Team
 Fin del Progrma
+<<<<<<< HEAD
 ultimo cambio de prueba de conflictos
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> origin/feature/marcos-conflicto
@@ -91,3 +93,8 @@ ultimo cambio de prueba de conflictos
 >>>>>>> origin/feature/any-conflicto
 =======
 >>>>>>> origin/feature/jhimm-conflicto
+=======
+=======
+ultimo cambio de prueba de conflictos
+>>>>>>> de33630 (feat: modifica estado desde programador mileidy)
+>>>>>>> origin/feature/marcos-conflicto
