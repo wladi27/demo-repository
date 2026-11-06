@@ -1,5 +1,9 @@
-Inicio del programa
+Inicio del documento - Estoy saludando
 ¡Hola Mundo!
 Saludos Team
+<<<<<<< HEAD
 Fin del Progrma
 ultimo cambio de prueba de conflictos
+=======
+Fin del Progrmagit 
+>>>>>>> origin/feature/yhoxis-conflicto
